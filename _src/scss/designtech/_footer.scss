@@ -1,19 +1,19 @@
-.dt-footer {
+.wtm-footer {
     padding-top: 25px !important;
     margin-top: 0 !important;
 }
 
-.dt-footer li {
+.wtm-footer li {
     margin-bottom: 5px;
 }
 
-.dt-footer .center-align {
+.wtm-footer .center-align {
     @include respond( phones ) {
         text-align: right;
     }
 }
 
-.dt-footer .right-align {
+.wtm-footer .right-align {
     @include respond( phones ) {
         text-align: center;
     }

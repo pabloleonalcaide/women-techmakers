@@ -1,8 +1,8 @@
-.dt-program-item {
+.wtm-program-item {
     margin-bottom: 20px !important;
 }
 
-.dt-program-hour {
+.wtm-program-hour {
     font-size: 4em;
     text-align: right;
     padding-right: 20px;
@@ -16,7 +16,7 @@
     }
 }
 
-.dt-program-title {
+.wtm-program-title {
     font-size: 1.6em;
     padding-top: 33px !important;
 
@@ -30,7 +30,7 @@
     }
 }
 
-.dt-program-speaker {
+.wtm-program-speaker {
     margin-bottom: 15px;
 
     @include respond( phones ) {
@@ -39,7 +39,7 @@
     }
 }
 
-.dt-program-speaker-info {
+.wtm-program-speaker-info {
     width: 100%;
 
     @include respond( desktop ) {
@@ -51,23 +51,23 @@
     }
 }
 
-.dt-program-speaker-image {
+.wtm-program-speaker-image {
     border-radius: 100%;
     width: 50px;
     height: 50px;
 }
 
-.dt-program-speaker-name {
+.wtm-program-speaker-name {
     font-size: 1.2em !important;
     margin-bottom: 2px !important;
     margin-top: 3px !important;
 }
 
-.dt-program-location-icon {
+.wtm-program-location-icon {
     font-size: 2em;
 }
 
-.dt-program-location-text {
+.wtm-program-location-text {
     font-size: 1.2em;
     margin-left: 1%;
 
@@ -76,12 +76,12 @@
     }
 }
 
-.dt-program-break-container {
+.wtm-program-break-container {
     padding: 20px;
     margin-bottom: 25px;
 }
 
-.dt-program-break-title {
+.wtm-program-break-title {
     font-size: 4em;
     margin-bottom: 10px;
 

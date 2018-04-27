@@ -1,5 +1,5 @@
 {
-  "name": "designtech-cordoba",
+  "name": "wtm-cordoba",
   "version": "1.0.0",
   "scripts": {
     "start": "gulp"

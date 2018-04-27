@@ -1,4 +1,4 @@
-.dt-info-row {
+.wtm-info-row {
     height: 600px;
 
     @include respond( mobile ) {
@@ -7,7 +7,7 @@
     }
 }
 
-.dt-info-image-wrapper {
+.wtm-info-image-wrapper {
     padding: 50px !important;
     height: inherit;
 
@@ -16,14 +16,13 @@
     }
 }
 
-.dt-info-image-container {
+.wtm-info-image-container {
     width: 100%;
     height: 75%;
 }
 
-.dt-info-image {
+.wtm-info-image {
     background-repeat: no-repeat;
-    background-size: contain;
     background-position: center;
     height: 100%;
 
@@ -33,7 +32,7 @@
     }
 }
 
-.dt-info-text {
+.wtm-info-text {
     padding: 0 10% 0 0 !important;
     height: inherit;
 
@@ -42,7 +41,7 @@
     }
 }
 
-.dt-info-text p {
+.wtm-info-text p {
     font-size: 1.2em !important;
     line-height: 1.5em;
 }

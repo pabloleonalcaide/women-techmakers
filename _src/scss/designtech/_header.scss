@@ -1,55 +1,55 @@
-.dt-header {
+.wtm-header {
     height: 64px !important;
 }
 
-.dt-header nav {
+.wtm-header nav {
     height: 64px !important;
 }
 
-.dt-header a {
+.wtm-header a {
     cursor: pointer;
 }
 
-.dt-header .brand-logo {
+.wtm-header .brand-logo {
     @include respond( mobile ) {
         line-height: 64px;
     }
 }
 
-.dt-header .button-collapse {
+.wtm-header .button-collapse {
     @include respond( mobile ) {
         height: 64px !important;
         line-height: 64px !important;
     }
 }
 
-.dt-header .button-collapse i {
+.wtm-header .button-collapse i {
     @include respond( mobile ) {
         height: 64px !important;
         line-height: 64px !important;
     }
 }
 
-.dt-nav {
+.wtm-nav {
     @include respond( desktop ) {
         padding: 0 50px;
     }
 }
 
-.dt-logo-container {
+.wtm-logo-container {
     height: inherit;
 }
 
-.dt-logo {
+.wtm-logo {
     height: 60%;
-    width: 183px;
+    width: 200px;
     margin-top: 12px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
-.dt-collapse i {
+.wtm-collapse i {
     margin-left: 20px;
     font-size: 2.5em !important;
 }

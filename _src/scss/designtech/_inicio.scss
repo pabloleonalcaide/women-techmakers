@@ -1,4 +1,4 @@
-.dt-full-screen {
+.wtm-full-screen {
     height: calc( 100vh - 64px );
     background-size: cover;
 
@@ -11,11 +11,11 @@
     }
 }
 
-.dt-full-screen-card {
+.wtm-full-screen-card {
     padding: 20px;
 }
 
-.dt-full-screen-card-container {
+.wtm-full-screen-card-container {
     border: 2px solid #1e88e5;
     padding: 50px;
 
@@ -24,7 +24,7 @@
     }
 }
 
-.dt-full-screen-title {
+.wtm-full-screen-title {
     font-size: 3em;
     margin-bottom: 20px;
 
@@ -33,32 +33,32 @@
     }
 }
 
-.dt-full-screen-image {
+.wtm-full-screen-image {
     background-size: cover;
 }
 
-.dt-full-screen-vertical-wrapper {
+.wtm-full-screen-vertical-wrapper {
     height: 100%;
 }
 
-.dt-full-screen-horizontal-wrapper {
+.wtm-full-screen-horizontal-wrapper {
     width: 100%;
 }
 
-.dt-full-screen-cta {
+.wtm-full-screen-cta {
     margin-top: 20px;
     width: 100%;
     max-width: 280px;
 }
 
-.dt-full-screen-shirt {
+.wtm-full-screen-shirt {
     margin: 20px auto 0;
     width: 100%;
     max-width: 280px;
     position: relative;
 }
 
-.dt-full-screen-shirt-icon {
+.wtm-full-screen-shirt-icon {
     display: inline-block;
     width: 30px;
     height: 30px;
@@ -68,7 +68,7 @@
     background-position: center;
 }
 
-.dt-full-screen-shirt-text {
+.wtm-full-screen-shirt-text {
     max-width: 200px;
     display: inline-block;
 
