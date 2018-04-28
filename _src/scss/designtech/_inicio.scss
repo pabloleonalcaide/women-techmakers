@@ -9,6 +9,14 @@
     @include respond( mobile ) {
         min-height: 480px;
     }
+
+    img {
+      max-width: 100px;
+    }
+
+    h5 {
+      font-weight: 300;
+    }
 }
 
 .wtm-full-screen-card {
