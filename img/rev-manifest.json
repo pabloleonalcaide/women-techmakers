@@ -1,4 +1,8 @@
 {
+  "asl_LOGO.png": "asl_LOGO-96b27184a2.png",
+  "consejo_LOGO.png": "consejo_LOGO-d69d2fccfb.png",
+  "don-folio_LOGO.svg": "don-folio_LOGO-0235c4f34c.svg",
+  "fac_LOGO.png": "fac_LOGO-3c71c28b85.png",
   "favicons/android-icon-144x144.png": "favicons/android-icon-144x144-ca58a3e4a2.png",
   "favicons/android-icon-192x192.png": "favicons/android-icon-192x192-008510f429.png",
   "favicons/android-icon-36x36.png": "favicons/android-icon-36x36-12899b99c2.png",
@@ -26,11 +30,10 @@
   "favicons/ms-icon-150x150.png": "favicons/ms-icon-150x150-e6d55eda12.png",
   "favicons/ms-icon-310x310.png": "favicons/ms-icon-310x310-a1077ac66c.png",
   "favicons/ms-icon-70x70.png": "favicons/ms-icon-70x70-7dd288dff6.png",
-  "google.svg": "google-701854227f.svg",
-  "logo-asl.png": "logo-asl-3a4ff538b8.png",
-  "logo-gdg-negativo.png": "logo-gdg-negativo-54a1f2637e.png",
+  "gdg_LOGO.svg": "gdg_LOGO-88f5b03eac.svg",
+  "genially_LOGO.svg": "genially_LOGO-a163a23945.svg",
   "pattern_pattern.svg": "pattern_pattern-fe416a1054.svg",
-  "share/facebook.png": "share/facebook-dbe218c659.png",
+  "share/facebook_facebook.jpg": "share/facebook_facebook-b7171e1f42.jpg",
   "speakers/carmen.jpg": "speakers/carmen-7dc1f22a85.jpg",
   "speakers/ceci.jpg": "speakers/ceci-0b6e4ca96b.jpg",
   "speakers/cris.jpg": "speakers/cris-aa80c1a233.jpg",
@@ -38,7 +41,6 @@
   "speakers/maribel.jpg": "speakers/maribel-a660481299.jpg",
   "speakers/silvia.jpg": "speakers/silvia-8dae4b6610.jpg",
   "speakers/teba.jpg": "speakers/teba-df4fea16a9.jpg",
-  "uco.svg": "uco-97dac553b2.svg",
   "wtm_imago.png": "wtm_imago-c5b7ae07b5.png",
   "wtm_logo_header.png": "wtm_logo_header-b0249d71f2.png"
 }

@@ -9,6 +9,7 @@
 
     @include respond( phones ) {
         font-size: 1.8em;
+        text-align: left;
     }
 
     @include respond( tablets ) {
@@ -19,6 +20,7 @@
 .wtm-program-title {
     font-size: 1.6em;
     padding-top: 33px !important;
+    max-width: 85%;
 
     @include respond( phones ) {
         font-size: 1.3em;
@@ -28,13 +30,26 @@
     @include respond( tablets ) {
         padding-top: 17px !important;
     }
+
+    & .wtm-badge {
+      position: relative;
+      top: -3px;
+      font-size: 16px;
+      padding: 4px 8px;
+      line-height: 16px;
+      border-radius: 3px;
+      white-space: nowrap;
+
+      @include respond( phones ) {
+          font-size: 0.7em;
+      }
+    }
 }
 
 .wtm-program-speaker {
     margin-bottom: 15px;
 
     @include respond( phones ) {
-        text-align: center;
         margin-bottom: 25px;
     }
 }
