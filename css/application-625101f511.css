@@ -444,7 +444,7 @@ html {
   margin-bottom: 5px
 }
 .card .card-image img {
-  max-height: 435px;
+  max-height: 410px;
 }
 @media only screen and (max-width:600px) {
   .wtm-footer .right-align {
@@ -459,4 +459,11 @@ html {
 }
 .border-silver {
   border-bottom: 1px solid #c0c0c0;
+}
+.speakers-row{
+  display: flex; 
+  flex-wrap: wrap;
+}
+.subtitle{
+  font-size: 0.8em
 }
