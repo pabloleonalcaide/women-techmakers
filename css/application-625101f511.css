@@ -445,6 +445,7 @@ html {
 }
 .card .card-image img {
   max-height: 385px;
+  Min-height: 300px;
 }
 @media only screen and (max-width:600px) {
   .wtm-footer .right-align {
