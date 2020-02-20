@@ -444,7 +444,7 @@ html {
   margin-bottom: 5px
 }
 .card .card-image img {
-  max-height: 410px;
+  max-height: 385px;
 }
 @media only screen and (max-width:600px) {
   .wtm-footer .right-align {
@@ -466,4 +466,8 @@ html {
 }
 .subtitle{
   font-size: 0.8em
+}
+.sponsor-row{
+  display: flex;
+  align-items: center;
 }
