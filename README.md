@@ -1,5 +1,7 @@
 This repo is intended to be used as a template for future Women TechMakers (WTM) events as landing page. Thanks to [GDG Córdoba]() for sharing it with us :)
 
-To develop it in a local environment `git clone` it, then run `npm i` in the root folder to install all required packages. To start the development server, run `idk-which-command-to-use`.
+UPDATE: seems the work on this repo has been done over the compiled files, so the `_src` directory is not really being used.
 
-**Beware**: you need Python 2 for `npm i` to work (sadly :( gyp needs it as hard dependency)
+To update it, just clone it and edit the files inside the `dist` folder.
+
+You can serve the `dist` folder locally to get a local preview.
